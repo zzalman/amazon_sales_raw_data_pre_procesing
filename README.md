@@ -114,27 +114,7 @@ Now the dataset is **atomic**, fully numeric where appropriate, and ready for:
 
 ---
 
-## 🚀 How to Use This Repository
 
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/zzalman/amazon-sales-data-cleaning.git
-   cd amazon-sales-data-cleaning
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install pandas numpy
-   ```
-
-3. **Run the Jupyter Notebook**
-   ```bash
-   jupyter notebook data_preprocessing_amazon_sales.ipynb
-   ```
-
-The notebook contains all the code and detailed explanations. You can step through each cell to understand the transformation process.
-
----
 
 ## 📦 Requirements
 - Python 3.8+
@@ -157,8 +137,6 @@ Data Science enthusiast, passionate about transforming messy data into actionabl
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
